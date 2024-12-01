@@ -1,0 +1,21 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/">
+        <file>images/棋盘/木质棋盘.png</file>
+        <file>images/棋盘/大白棋.png</file>
+        <file>images/棋盘/大黑棋.png</file>
+        <file>images/棋盘/追踪显示期望.png</file>
+        <file>images/棋盘/追踪显示遮罩.png</file>
+        <file>images/棋盘/大棋子遮罩.png</file>
+
+        <file>images/interface/background.png</file>
+        <file>images/interface/立绘01.png</file>
+        <file>images/interface/准备.png</file>
+        <file>images/interface/准备_禁用.png</file>
+        <file>images/interface/准备遮罩.png</file>
+
+        <file>images/interface/认输_启用.png</file>
+        <file>images/interface/认输01.png</file>
+        <file>images/interface/认输02.png</file>
+        <file>images/interface/规则背景.png</file>
+    </qresource>
+</RCC>
